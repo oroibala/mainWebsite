@@ -18,5 +18,8 @@
   "homepage": "https://github.com/oroibala/mainWebsite#readme",
   "devDependencies": {
     "nodemon": "^2.0.11"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
