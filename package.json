@@ -1,0 +1,22 @@
+{
+  "name": "mainwebsite",
+  "version": "1.0.0",
+  "description": "Main web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oroibala/mainWebsite.git"
+  },
+  "author": "Yryskeldi Anarbekov (oroibala)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oroibala/mainWebsite/issues"
+  },
+  "homepage": "https://github.com/oroibala/mainWebsite#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
